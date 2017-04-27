@@ -1,7 +1,7 @@
 /**
  * @ClassName:package-info
- * @Description:TODO 鍏充簬闆嗗悎鐨勭浉鍏崇煡璇嗭細Collection銆丮ap
- * @Date:2017骞?4鏈?6鏃?
+ * @Description:TODO 关于集合的相关知识：Collection、Map
+ * @Date:2017年4月6日
  * @author niuc
  *
  */

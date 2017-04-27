@@ -1,6 +1,6 @@
 /**
- * @Description: java涓父瑙佺殑鍖呯殑缁冧範
- * @Date:2017骞?4鏈?10鏃?
+ * @Description: java常用包
+ * @Date:2017年4月10日
  * @author niuc
  *
  */
