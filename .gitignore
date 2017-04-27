@@ -1,0 +1,10 @@
+/bin/
+/build/
+*.txt
+/*.bat
+/*.xml
+/libs/
+/.settings/
+/lib/
+/.project
+/.classpath
